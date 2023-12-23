@@ -7,7 +7,7 @@ A basic calculator web application for performing arithmetic calculations.
 1. **Clone the Repository:**
    ```bash
    git clone [repository_url]
-   cd calculator-app
+   cd calculator
 
 Open index.html:
 
@@ -15,7 +15,7 @@ Open the index.html file in your preferred web browser.
 
 🌐 Live Demo
 
-Check out the live demo 
+Check out the live demo https://mehakmantri.github.io/Calculator/
 
 🖥️ Features
 
@@ -38,4 +38,6 @@ JavaScript
 math.js for mathematical evaluations
 
 📸 Screenshots
+![image](https://github.com/MehakMantri/Calculator/assets/114497437/843e9061-7097-4cdf-baeb-4621ada813fe)
+
 
