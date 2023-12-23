@@ -38,6 +38,7 @@ JavaScript
 math.js for mathematical evaluations
 
 📸 Screenshots
+
 ![image](https://github.com/MehakMantri/Calculator/assets/114497437/843e9061-7097-4cdf-baeb-4621ada813fe)
 
 
